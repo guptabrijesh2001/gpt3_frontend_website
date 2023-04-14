@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gpt3_frontend_website/static/css/main.7e52f68d.css",
+    "main.js": "/gpt3_frontend_website/static/js/main.896ba0e4.js",
+    "static/media/blog01.png": "/gpt3_frontend_website/static/media/blog01.a1caff7b3f3350506a92.png",
+    "static/media/blog03.png": "/gpt3_frontend_website/static/media/blog03.7bdab80dba19326384f8.png",
+    "static/media/blog04.png": "/gpt3_frontend_website/static/media/blog04.a56421095d7a29d2d4c1.png",
+    "static/media/blog05.png": "/gpt3_frontend_website/static/media/blog05.848f4092767bd02a0968.png",
+    "static/media/blog02.png": "/gpt3_frontend_website/static/media/blog02.11c1bbab115699b6f2a5.png",
+    "static/media/Ai.png": "/gpt3_frontend_website/static/media/Ai.fba01ddeef217a6305c2.png",
+    "static/media/possibility.png": "/gpt3_frontend_website/static/media/possibility.335a48c3578d865c699e.png",
+    "static/media/dropbox.png": "/gpt3_frontend_website/static/media/dropbox.4d572f65bdcf3acc739b.png",
+    "index.html": "/gpt3_frontend_website/index.html",
+    "main.7e52f68d.css.map": "/gpt3_frontend_website/static/css/main.7e52f68d.css.map",
+    "main.896ba0e4.js.map": "/gpt3_frontend_website/static/js/main.896ba0e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e52f68d.css",
+    "static/js/main.896ba0e4.js"
+  ]
+}
